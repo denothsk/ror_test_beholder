@@ -2,4 +2,4 @@
 
 # Ruby on Rails Tutorial: first application
 
-#Learning about RoR and GIT ;)
+Learning about RoR and GIT ;)
